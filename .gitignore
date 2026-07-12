@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed data
+data/processed/*
+!data/processed/.gitkeep
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Operating-system files
+.DS_Store
+Thumbs.db
