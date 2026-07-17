@@ -5,22 +5,19 @@ An end-to-end Industrial Predictive Maintenance System built using Machine Learn
 FactoryGuard AI predicts potential machine failures from real-time sensor data and automatically performs feature engineering before making predictions. The project demonstrates a production-style ML pipeline with a clean separation between frontend, backend, feature engineering, and model inference.
 
 ---
+### APP LIVE LINK :
+
+https://likitha-sd-factoryguard-ai-appstreamlit-app-bvm8zq.streamlit.app/
 
 ## 📸 Demo
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+<img width="1763" height="844" alt="Screenshot_17-7-2026_221459_localhost" src="https://github.com/user-attachments/assets/ae19a26d-8178-4198-9ddb-ea828742344d" />
+
 
 ### Prediction
-
-![Prediction](assets/prediction.png)
-
-### FastAPI Documentation
-
-![Swagger](assets/swagger.png)
-
----
+<img width="1763" height="844" alt="Screenshot_17-7-2026_221519_localhost" src="https://github.com/user-attachments/assets/b6616e49-23f2-4893-abca-ebec1f98e25a" />
 
 # 🚀 Features
 
